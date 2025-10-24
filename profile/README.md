@@ -1,12 +1,12 @@
-# EA and HAM Club (Electronics Armatures and HAM Radio)
+# HAM ARC Club (Hardware AI/ML and Automation Rendering and Club)
 
 ## Introduction
 
-Welcome to the official documentation for EA and HAM, which stands for **Electronics Armatures and HAM Radio**. We are a passionate community dedicated to exploring and innovating within the realms of **software**, **hardware**, and **Artificial Intelligence/Machine Learning (AIML)**.
+Welcome to the official documentation for HAM ARC, which stands for **Hardware AI/ML and Automation Rendering and Club**. We are a passionate community dedicated to exploring and innovating within the realms of **software**, **hardware**, and **Artificial Intelligence/Machine Learning (AIML)**.
 
 ## What We Do
 
-At EA and HAM, we focus on three core areas:
+At HAM ARC, we focus on three core areas:
 
 1. **Software Development:**
    - We engage in a wide range of software projects, from creating innovative applications to solving complex problems using cutting-edge technologies.
@@ -21,9 +21,9 @@ At EA and HAM, we focus on three core areas:
 
 Our mission is to provide a collaborative environment where enthusiasts of electronics, software, and AIML can come together to learn, build, and share knowledge. We aim to bridge the gap between theory and practical application, fostering a community of innovators and problem-solvers.
 
-## Year 24-25 Documentation
+## Year '23-'26 Documentation
 
-This repository serves as the official documentation of our work for the academic year 2024-2025. Here, you will find detailed descriptions, code snippets, circuit diagrams, project reports, and more, all pertaining to the various projects and initiatives undertaken by our club members.
+This repository serves as the official documentation of our work for the academic year 2023-2026. Here, you will find detailed descriptions, code snippets, circuit diagrams, project reports, and more, all pertaining to the various projects and initiatives undertaken by our club members.
 
 We are excited to share our journey with you and hope this documentation will serve as a valuable resource for current and future members, as well as anyone interested in our work.
 
