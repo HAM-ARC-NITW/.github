@@ -1,4 +1,4 @@
-# HAM ARC Club (Hardware AI/ML and Automation Rendering and Club)
+# HAM ARC Club (Hardware AI/ML and Automation Rendering and Coding Club)
 
 ## Introduction
 
